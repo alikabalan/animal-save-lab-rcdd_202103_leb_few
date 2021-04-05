@@ -9,9 +9,8 @@ html {
 }
 
 /* Write your solution here */
-@mwdia screen and (max-width: 1196px;) {
+@media screen and (max-width: 1196px;) {
   #bear {
-    position: absolute;
     right: 800px;
   }
 }
